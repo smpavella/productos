@@ -30,3 +30,10 @@ Se extraen las siguientes caracteristicas:
 - Precio Calidad Primera
 - Precio Calidad Corriente
 - Grandes Superficies
+
+**DOI del dataset**
+
+DOI:  10.5281/zenodo.3757558
+
+https://doi.org/10.5281/zenodo.3757558 
+
